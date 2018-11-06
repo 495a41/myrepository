@@ -1,0 +1,14 @@
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+
+192.168.122.101 dba01.dbadomain dba01
+192.168.100.101 dba03.dbadomain dba03
+
+192.168.122.105  apa01.apdomain  apa01
+192.168.122.106  apb01.apdomain  apb01
+192.168.122.107  apc01.apdomain  apc01
+
+192.168.100.105 apa03.apdomain  apa03
+192.168.100.106 apb03.apdomain  apb03
+192.168.100.107 apc03.apdomain  apc03
+
